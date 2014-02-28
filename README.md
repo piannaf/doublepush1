@@ -40,6 +40,7 @@ That resulted in a merge conflict since the default READMEs conflicted.
 But now they are the same.
 
 And I've confirmed I can push to both simultaniously with
+
     $ git push doublepush
 
 :+1:
